@@ -1,0 +1,9 @@
+C:\Users\Giovane\Desktop\Gerar Arquivos\Project_Test_ML_Dev\Project_Test_ML_Dev\bin\Debug\Project_Test_ML_Dev.exe.config
+C:\Users\Giovane\Desktop\Gerar Arquivos\Project_Test_ML_Dev\Project_Test_ML_Dev\bin\Debug\Project_Test_ML_Dev.exe
+C:\Users\Giovane\Desktop\Gerar Arquivos\Project_Test_ML_Dev\Project_Test_ML_Dev\bin\Debug\Project_Test_ML_Dev.pdb
+C:\Users\Giovane\Desktop\Gerar Arquivos\Project_Test_ML_Dev\Project_Test_ML_Dev\obj\Debug\Project_Test_ML_Dev.csprojResolveAssemblyReference.cache
+C:\Users\Giovane\Desktop\Gerar Arquivos\Project_Test_ML_Dev\Project_Test_ML_Dev\obj\Debug\Project_Test_ML_Dev.Form1.resources
+C:\Users\Giovane\Desktop\Gerar Arquivos\Project_Test_ML_Dev\Project_Test_ML_Dev\obj\Debug\Project_Test_ML_Dev.Properties.Resources.resources
+C:\Users\Giovane\Desktop\Gerar Arquivos\Project_Test_ML_Dev\Project_Test_ML_Dev\obj\Debug\Project_Test_ML_Dev.csproj.GenerateResource.Cache
+C:\Users\Giovane\Desktop\Gerar Arquivos\Project_Test_ML_Dev\Project_Test_ML_Dev\obj\Debug\Project_Test_ML_Dev.exe
+C:\Users\Giovane\Desktop\Gerar Arquivos\Project_Test_ML_Dev\Project_Test_ML_Dev\obj\Debug\Project_Test_ML_Dev.pdb
